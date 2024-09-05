@@ -3,7 +3,7 @@
 
 - 🔧 Experienced with automating workflows using Selenium, including time-saving tools for platforms like Workday
 
-- 📊 Organizing workout data with Obsidian and exploring customizable data visualization tools on a Markdown platform
+- 📊 Organizing workout data, school notes, and projects with Obsidian and exploring customizable data visualization tools on a Markdown platform
 
 - 🎓 Balancing full-time school and part-time IT work @ UNLV
 
