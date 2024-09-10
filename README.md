@@ -1,4 +1,4 @@
-#### 🚀 Always looking for ways to optimize and automate, I thrive on solving complex problems with creative and optimal solutions
+#### 🚀 Always looking for ways to optimize and automate, I thrive on solving complex problems with creative and flexible solutions
 - 💻 Currently working on personal projects and refining my skills in C++ and Python
 
 - 🔧 Experienced with automating workflows using Selenium, including time-saving tools for platforms like Workday
